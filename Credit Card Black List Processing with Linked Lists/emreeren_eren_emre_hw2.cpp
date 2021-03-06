@@ -2,9 +2,9 @@
 // Then, it is organized according to their expiration dates.
 // After enter the file name successfully from user, program displays what it did when it stores the list
 // Then, program shows a menu whic is;  1. Display List
-//										2. Card Search
-//										3. Delete Cards (with respect to Expiration Date) 
-//										4. Exit 
+//					2. Card Search
+//					3. Delete Cards (with respect to Expiration Date) 
+//					4. Exit 
 
 #include<iostream>
 #include<fstream>
